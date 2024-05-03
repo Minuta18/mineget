@@ -10,5 +10,8 @@
  Igor Samsonov Copyright (c) 2024
 '''
 
+from mineget import config
+
 if __name__ == "__main__":
-    print('First test')
+    config = config.Config()
+    

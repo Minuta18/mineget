@@ -1,2 +1,2 @@
-from loader import Loader
-from download import Downloader
+from mineget.loader import Loader
+from mineget.download import Downloader
